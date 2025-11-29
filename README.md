@@ -191,7 +191,7 @@ Each detected pattern reduces the password score.
 ![Weak Password](https://github.com/BhagyaDharennavar/Cloudflare-password-analyzer/blob/main/Screenshot/Weak%20password.png)
 ![Medium Password](https://github.com/BhagyaDharennavar/Cloudflare-password-analyzer/blob/main/Screenshot/Medium%20password.png)
 ![Strong password](https://github.com/BhagyaDharennavar/Cloudflare-password-analyzer/blob/main/Screenshot/Strong%20password.png)
-![Keyboard Pattern Detection](https://github.com/BhagyaDharennavar/Cloudflare-password-analyzer/blob/main/Screenshot/Keyboard%20pattern.png)
+![Keyboard Pattern](https://raw.githubusercontent.com/BhagyaDharennavar/Cloudflare-password-analyzer/main/Screenshot/Keyboard%20pattern.png)
 ![Year Password Detection](https://github.com/BhagyaDharennavar/Cloudflare-password-analyzer/blob/main/Screenshot/year%20detection.png)
 ![Keyboard Pattern Detection](https://github.com/BhagyaDharennavar/Cloudflare-password-analyzer/blob/main/Screenshot/Keyboard%20pattern.png)
 ```
