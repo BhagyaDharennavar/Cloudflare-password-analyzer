@@ -187,7 +187,7 @@ Each detected pattern reduces the password score.
 ## 🖥 Screenshots  
 
 ### 🔴 Weak Password Detection
-![Weak Password](https://raw.githubusercontent.com/BhagyaDharennavar/Cloudflare-password-analyzer/main/Screenshot/Weak%20password.png)
+![Weak Password](https://github.com/BhagyaDharennavar/Cloudflare-password-analyzer/blob/main/Screenshot/Screenshot%202025-11-29%20192459.png)
 
 ---
 
