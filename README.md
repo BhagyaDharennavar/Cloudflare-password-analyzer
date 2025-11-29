@@ -188,9 +188,12 @@ Each detected pattern reduces the password score.
 (Add your actual screenshots)
 
 ```
-![Strength Meter](screenshots/strength.png)
-![Pattern Detection](screenshots/patterns.png)
-![Breach Check](screenshots/breach.png)
+![Weak Password](https://github.com/BhagyaDharennavar/Cloudflare-password-analyzer/blob/main/Screenshot/Weak%20password.png)
+![Medium Password](https://github.com/BhagyaDharennavar/Cloudflare-password-analyzer/blob/main/Screenshot/Medium%20password.png)
+![Strong password](https://github.com/BhagyaDharennavar/Cloudflare-password-analyzer/blob/main/Screenshot/Strong%20password.png)
+![Keyboard Pattern Detection](https://github.com/BhagyaDharennavar/Cloudflare-password-analyzer/blob/main/Screenshot/Keyboard%20pattern.png)
+![Year Password Detection](https://github.com/BhagyaDharennavar/Cloudflare-password-analyzer/blob/main/Screenshot/year%20detection.png)
+![Keyboard Pattern Detection](https://github.com/BhagyaDharennavar/Cloudflare-password-analyzer/blob/main/Screenshot/Keyboard%20pattern.png)
 ```
 
 ---
