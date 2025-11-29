@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Advanced Password Analyzer — Cloudflare-style</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="card">
+    <h1>Password Breach & Strength Checker</h1>
+
+    <label for="pwd">Type a password</label>
+    <div class="pwd-row">
+      <input id="pwd" type="password" placeholder="Type your password…" autocomplete="new-password" />
+      <button id="toggle">Show</button>
+    </div>
+
+    <div id="strength-section">
+      <div id="strength-bar"><div id="strength-fill"></div></div>
+      <div id="strength-text">Strength: —</div>
+    </div>
+
+    <div id="results">
+      <div><strong>SHA-1:</strong> <span id="sha1">—</span></div>
+      <div><strong>HIBP check:</strong> <span id="pwned">—</span></div>
+      <div><strong>Entropy (est):</strong> <span id="entropy">—</span> bits</div>
+    </div>
+
+    <div id="flags" aria-live="polite"></div>
+
+    <div id="suggestions"></div>
+
+    <footer>
+      <small>Only the first 5 hex characters of the SHA-1 hash are sent to HaveIBeenPwned (k-anonymity).</small>
+    </footer>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
