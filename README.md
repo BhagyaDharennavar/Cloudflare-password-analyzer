@@ -185,16 +185,34 @@ Each detected pattern reduces the password score.
 ---
 
 ## 🖥 Screenshots  
-(Add your actual screenshots)
 
-```
-![Weak Password](https://github.com/BhagyaDharennavar/Cloudflare-password-analyzer/blob/main/Screenshot/Weak%20password.png)
-![Medium Password](https://github.com/BhagyaDharennavar/Cloudflare-password-analyzer/blob/main/Screenshot/Medium%20password.png)
-![Strong password](https://github.com/BhagyaDharennavar/Cloudflare-password-analyzer/blob/main/Screenshot/Strong%20password.png)
-![Keyboard Pattern](https://raw.githubusercontent.com/BhagyaDharennavar/Cloudflare-password-analyzer/main/Screenshot/Keyboard%20pattern.png)
-![Year Password Detection](https://github.com/BhagyaDharennavar/Cloudflare-password-analyzer/blob/main/Screenshot/year%20detection.png)
-![Keyboard Pattern Detection](https://github.com/BhagyaDharennavar/Cloudflare-password-analyzer/blob/main/Screenshot/Keyboard%20pattern.png)
-```
+### 🔴 Weak Password Detection
+![Weak Password](https://raw.githubusercontent.com/BhagyaDharennavar/Cloudflare-password-analyzer/main/Screenshot/Weak%20password.png)
+
+---
+
+### 🟠 Medium Password Detection
+![Medium Password](https://raw.githubusercontent.com/BhagyaDharennavar/Cloudflare-password-analyzer/main/Screenshot/Medium%20password.png)
+
+---
+
+### 🟢 Strong Password Detection
+![Strong Password](https://raw.githubusercontent.com/BhagyaDharennavar/Cloudflare-password-analyzer/main/Screenshot/Strong%20password.png)
+
+---
+
+### 🎹 Keyboard Pattern Detection
+![Keyboard Pattern Detection](https://raw.githubusercontent.com/BhagyaDharennavar/Cloudflare-password-analyzer/main/Screenshot/Keyboard%20pattern.png)
+
+---
+
+### 🔢 Sequential Pattern Detection
+![Sequence Pattern](https://raw.githubusercontent.com/BhagyaDharennavar/Cloudflare-password-analyzer/main/Screenshot/Sequence%20pattern.png)
+
+---
+
+### 📅 Year Pattern (Birth Year) Detection
+![Year Detection](https://raw.githubusercontent.com/BhagyaDharennavar/Cloudflare-password-analyzer/main/Screenshot/year%20detection.png)
 
 ---
 
@@ -212,16 +230,12 @@ password-checker/
 
 ## 🛠 Setup & Installation
 
-### Method 1: Open directly  
+Open directly  
 Just open:
 
 ```
 index.html
 ```
-
-### Method 2: VS Code Live Server  
-Right-click → **Open With Live Server**
-
 ---
 
 ## 🌐 APIs Used  
